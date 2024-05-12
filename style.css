@@ -488,8 +488,13 @@ footer .col {
 
 footer .logo {
   margin-bottom: 30px;
+<<<<<<< HEAD
   height: 60px;
   width: 70px;
+=======
+  height:60px;
+  width: 70px
+>>>>>>> 1d964ba659d4546a063ea6882f87a52a5a6e779c
 }
 
 footer h4 {
