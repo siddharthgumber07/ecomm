@@ -82,7 +82,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 20px 80px;
+  padding: 5px 80px;
   background: #e3e6f3;
   box-sizing: 0 5px 15px rgba(0, 0, 0, 0.06);
   z-index: 999;
@@ -90,7 +90,10 @@ body {
   top: 0;
   left: 0;
 }
-
+#header a img{
+  height: 60px;
+  width: 70px;
+}
 #navbar {
   display: flex;
   align-items: center;
