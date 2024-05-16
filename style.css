@@ -137,7 +137,7 @@ body {
 }
 
 #hero {
-  height: 90vh;
+  height: 91vh;
   width: 100%;
   background-image: url(img/hero4.png);
   background-size: cover;
@@ -536,6 +536,21 @@ footer a:hover {
 footer .copyright {
   width: 100%;
   text-align: center;
+}
+
+.copyright button {
+  background-color: #088178;
+  color: white;
+  cursor: pointer;
+
+}
+.copyright button a{
+  color: white;
+}
+
+.copyright button:hover{
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
 #close {
@@ -1132,6 +1147,10 @@ footer .copyright {
 
   #sm-banner .banner-box2{
     margin-top: 20px;
+  }
+
+  .copyright button{
+    margin-left: 40px;
   }
 
   #banner3{
